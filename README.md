@@ -12,7 +12,7 @@
 - Redux Toolkit
 - RTK query
 - SCSS
-- And design
+- Ant design
 
 ## 📅 기간
 
