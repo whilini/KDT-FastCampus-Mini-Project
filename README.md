@@ -49,6 +49,7 @@
 - 회원가입
 - 로그인
 
+![로그인화면](https://user-images.githubusercontent.com/98644969/210850134-c88759ac-c735-49b6-bbed-da007a2b2f4b.gif)
   - 로그인 연장 기능(엑세스토큰 재발급)
 
 - 회원정보 수정
