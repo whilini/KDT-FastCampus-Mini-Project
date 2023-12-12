@@ -7,7 +7,11 @@ const Cart = () => {
 
   return (
     <div>
-      {cart?.length !== 0 ? (
+      {isLoading? ( 
+        <>로딩중...</> 
+      ) : isError ? (
+        <>api 에러 발생</>
+      ) : cart?.length !== 0 ? (
         <>
           <div style={{ marginTop: '120px', marginBottom: '100px' }}>
             {cart?.map((item, index) => (
